@@ -1,0 +1,18 @@
+
+.hero {
+    background-image: url(https://image.shutterstock.com/image-photo/black-wall-texture-rough-background-260nw-1450341161.jpg);
+}
+
+.img {
+    margin: 7% 10%;
+    padding: 7% 10%;
+}
+
+#services-section {
+    background-color: #cccc;
+    
+}
+
+#contact-section {
+    background-color: #cccc;
+}
